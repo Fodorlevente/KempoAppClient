@@ -9,7 +9,7 @@ body {
   font-family: 'Roboto', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #F7F7F7;
+  background: linear-gradient(110deg, #F7F4E9 60%, #3ff1aa 60%);
 }
 
 .App-logo {
